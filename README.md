@@ -2,7 +2,7 @@
 
 :clipboard: Slides for talk about how to setup Angular app with SSR on Docker
 
-## Preview
+## Preview 🎉
 
 <https://piecioshka.github.io/slides-angular-ssr-with-docker>
 
