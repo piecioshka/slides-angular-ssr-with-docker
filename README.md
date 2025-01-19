@@ -1,6 +1,6 @@
 # slides-angular-ssr-with-docker
 
-:clipboard: Slides for talk about how to setup Angular app with SSR on Docker
+📋 Slides for talk about how to setup Angular app with SSR on Docker
 
 ## Preview 🎉
 
